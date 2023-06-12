@@ -1,0 +1,10 @@
+* inquisitor
+
+Encoding/end-of-line detection and external-format abstraction for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/t-sin/inquisitor.git   |
+| commit  | 423fa9b  |
+| systems | inquisitor |
+|---------+-------------------------------------------|
+
